@@ -2,11 +2,11 @@
 
 @author: *Antoine Blaud*
 
-#### Score medium.in: 49884
+#### Score medium.in: 49 884
 
-#### Score big.in:  924289
+#### Score big.in:  924 289
 
-### Total: 974173
+### Total: 974 173
 
 
 
