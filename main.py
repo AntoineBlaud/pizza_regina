@@ -20,9 +20,9 @@ from Data import data
 
 
 '''
-Cette fonction s'occupe de retourner toutes les découpe possible de part pour un mapping
-il y a donc la même cellule dans plusieurs combinaisons de part 
-Les combinaisons de part se base sur le critère de taille maximum et la quantité minimal d'ingrédient
+Cette fonction s'occupe de retourner toutes les découpes possible de parts pour un mapping
+il y a donc la même cellule dans plusieurs combinaisons de parts 
+Les combinaisons de parts se basent sur le critère de taille maximum et la quantité minimal d'ingrédient
 '''
 
 def find_all_combination(mapping, min_ing, max_cell, pizza):
